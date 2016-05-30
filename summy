@@ -6,3 +6,5 @@
   忘记()
 3.代码
   忘记；
+4.linkedlist
+  dummy忘记dummy.next = head;
